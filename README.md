@@ -65,7 +65,7 @@ public class Calculator {
     }
 
     public double divide(double value1, double value2) {
-        if (value2 == 0) {
+        if (value1 == 0) {
             throw new ArithmeticException("Error: Division by zero");
         }
         return value1 / value2;
