@@ -1,0 +1,5 @@
+# Created at 2025-05-07T19:39:58.812
+Boot Manifest-JAR contains absolute paths in classpath 'F:\T\term\software az\week4\bdd\bdd calculator\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
